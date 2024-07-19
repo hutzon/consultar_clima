@@ -1,0 +1,20 @@
+{
+  "name": "cd-clima-app",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "color": "^4.2.3",
+    "colors": "^1.4.0",
+    "dotenv": "^16.4.5",
+    "inquirer": "^9.3.2"
+  }
+}
